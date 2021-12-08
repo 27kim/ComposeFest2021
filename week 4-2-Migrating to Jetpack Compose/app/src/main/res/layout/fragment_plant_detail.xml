@@ -162,7 +162,7 @@
             // Step 3) Add a ComposeView to host Compose code
 
             <androidx.compose.ui.platform.ComposeView
-                android:id="@+id/compose_view"
+                android:id="@+id/composeview"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
         </androidx.core.widget.NestedScrollView>
